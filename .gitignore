@@ -3,6 +3,7 @@
 .Python
 venv/
 results/models/*.pt
+results/models/*.pth
 results/metrics/*.json
 results/metrics/*.png
 data/raw/*
