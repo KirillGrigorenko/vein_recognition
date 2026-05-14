@@ -1,0 +1,15 @@
+{
+  "top1_accuracy": 0.0,
+  "top5_accuracy": 0.0,
+  "top10_accuracy": 0.0,
+  "confidence_mean": 0.9259704351425171,
+  "confidence_std": 0.014710093848407269,
+  "confidence_min": 0.8538894057273865,
+  "confidence_max": 0.9589381814002991,
+  "margin_mean": 0.004914483521133661,
+  "margin_std": 0.004526227246969938,
+  "margin_min": 0.0,
+  "margin_max": 0.04883241653442383,
+  "test_samples": 1670,
+  "test_people": 167
+}

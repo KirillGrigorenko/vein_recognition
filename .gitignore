@@ -8,5 +8,8 @@ results/metrics/*.json
 results/metrics/*.png
 data/raw/*
 data/roi/*
+data/*.rar
 .vscode/
 .idea/
+.claude/
+шпора.txt

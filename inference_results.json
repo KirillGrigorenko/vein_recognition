@@ -1,0 +1,38 @@
+{
+  "query_image": "data/raw/30/30_10.bmp",
+  "predicted_person": 30,
+  "top_results": [
+    {
+      "rank": 1,
+      "person_id": 30,
+      "confidence": 1.0,
+      "margin": 0.05400395393371582
+    },
+    {
+      "rank": 2,
+      "person_id": 30,
+      "confidence": 0.9459960460662842,
+      "margin": 0.0
+    },
+    {
+      "rank": 3,
+      "person_id": 30,
+      "confidence": 0.9370049238204956,
+      "margin": 0.0
+    },
+    {
+      "rank": 4,
+      "person_id": 30,
+      "confidence": 0.934158444404602,
+      "margin": 0.0
+    },
+    {
+      "rank": 5,
+      "person_id": 316,
+      "confidence": 0.9332646727561951,
+      "margin": 0.0
+    }
+  ],
+  "confidence": 1.0,
+  "margin": 0.05400395393371582
+}
